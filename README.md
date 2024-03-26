@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @waqasali-cs<br>- 👀 I’m interested in anyhing Related to CS/SE ...<br>- 🌱 I’m currently learning MERN stack...<br>- 📫 How to reach me www.linkedin.com/in/waqasali-cs...<br>- 😄 Pronouns: He/Him ...<br>
+- 👋 Hi, I’m WAQAS ALI<br>- 👀 I’m interested in anyhing related to CS/SE ...<br>- 🌱 I’m currently learning MERN stack...<br>- 📫 How to reach me www.linkedin.com/in/waqasali-cs...<br>- 😄 Pronouns: He/Him ...<br>
 
 
 ## 🌐 Socials:
