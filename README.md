@@ -2,7 +2,26 @@
 - 👋 Hi, I’m WAQAS ALI<br>- 👀 I’m interested in anyhing related to CS/SE ...<br>- 🌱 I’m currently learning MERN stack...<br>- 📫 How to reach me www.linkedin.com/in/waqasali-cs...<br>- 😄 Pronouns: He/Him ...<br>
 
 
-## 🌐 Socials:
+##  <em>PROJECTS:</em>
+ <ul>
+   <li><h4><a href='http://react-shoe.netlify.app/'> CI CD REACT SHOE PROJECT </a></h4></li>
+   <li><h4><a href='https://github.com/waqasali-cs/ToDo-with-Local-CRUD-Operation'> TODO REACT CRUD (dave gray YT) </a></h4></li>
+   <li><h4><a href='https://github.com/waqasali-cs/Scrimba-Challenges'> Scrimba javascript challenges </a></h4></li>
+   <li><h4><a href='http://waqasali-cs.github.io/CSS-Chair/'> CSS CHAIR </a></h4></li>
+   <li><h4><a href='https://waqasali-cs.github.io/parallex/'> Simple Parallax </a></h4></li>
+   <li><h4><a href='https://waqasali-cs.github.io/color-changer-simple/'> Color changer simple </a></h4></li>
+   <li><h4><a href='https://waqasali-cs.github.io/OmniFood/'> Food website HTML CSS (udemy course) </a></h4></li>
+   <li><h4><a href='https://waqasali-cs.github.io/gsap-sequence-animation/'> GSAP simple </a></h4></li>
+   <li><h4><a href='https://waqasali-cs.github.io/scrimba-chrome-extension-project/'> Scrimba Chrome Extension </a></h4></li>
+   <li><h4><a href='https://waqasali-cs.github.io/scrimba-counter-project/'> Scrimba Counter </a></h4></li>
+   <li><h4><a href='https://waqasali-cs.github.io/Scrimba-Business-Card-project/'> Scrimba card project </a></h4></li>
+   <li><h4><a href='https://waqasali-cs.github.io/Scrimba-space-explorationProject/'> Scrimba Simple page table </a></h4></li>
+   <li><h4><a href='https://waqasali-cs.github.io/scrimba-blackjack-project/'> Scrimba black jack </a></h4></li>
+ </ul>
+
+
+
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waqasali-cs) 
 
 # 💻 Tech Stack:
